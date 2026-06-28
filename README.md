@@ -3,6 +3,9 @@ Try it at https://andreikulit31.github.io/JS-Tagalog-TTS-website/
 
 Whether it's for a character, accessibility use, or any other need, it can help!
 Other languages coming soon!
+# WARNING
+
+If tagalog isn't installed in your language, then it will default into an english TTS like Microsfot David. :(
 
 # How to Use
 
@@ -10,4 +13,4 @@ Once opening the website, type some text into the textbox using your keyboard an
 
 ## Downloading?
 
-Sadly, the Javascript speechSynthesis function doesn't allow users to download a file, however, you can use a recorder to do exactly thaat!
+Sadly, the Javascript speechSynthesis function doesn't allow users to download a file, however, you can use a recorder to do exactly that!
