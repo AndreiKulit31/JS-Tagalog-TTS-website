@@ -1,4 +1,4 @@
-Oh, hi there! I, with the help of ChatGPT, develop this Tagalog TTS website for you to use!
+Oh, hi there! I, with the help of ChatGPT, developed this Tagalog TTS website for you to use!
 https://andreikulit31.github.io/JS-Tagalog-TTS-website/
 
 Whether it's for a character, accessibility use, or any other need, it can help!
